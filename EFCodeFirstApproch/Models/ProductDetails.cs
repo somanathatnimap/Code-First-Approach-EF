@@ -7,5 +7,6 @@ namespace EFCodeFirstApproch.Models
 {
     public class ProductDetails
     {
+        public int MyProperty { get; set; }
     }
 }
